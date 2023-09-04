@@ -1,6 +1,6 @@
 # LlamaGPT
 
-Official Github : https://github.com/getumbrel/llama-gpt
+Inspired by : https://github.com/getumbrel/llama-gpt
 
 1.
 ![Introducing-LlamaGPT_page-0001](https://github.com/Rakib-data-scientist/LlamaGPT/assets/137823730/efe1c507-6d9e-4df4-bb64-75e5f51f1888)
